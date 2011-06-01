@@ -13,7 +13,7 @@ This implementation of ZED was written for my own amusement, and is not
 the original, which I believe was written by Phil Hazel in BCPL.
 Unfortunately, SPEC.ZED isn't complete, and neither is this
 implementation.  Perhaps, one day, if the universe collapses, all the
-photons from the edge and we will be able to reconstruct the real ZED,
-as well as raising the dead.
+photons will return from the edge and we will be able to reconstruct the
+real ZED, as well as raising the dead.
 
 Richard Brooksby (RPTB1) 2011-06-11
