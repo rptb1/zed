@@ -11,6 +11,9 @@
  *  and the source side-by-side on my screen.  Here is a ruler:
  *------|-------|-------|-------|-------|-------|-------|-------|-
  *	9	17	25	33	41	49	57	65
+ *
+ * Copyright 1998 Richard Brooksby.  All rights reserved.
+ * See COPYING for licence.
  */
 
 #include <stddef.h>
